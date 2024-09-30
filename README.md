@@ -23,4 +23,4 @@ I'm a Computer Science student with a passion for coding and problem-solving, al
 
 ### About Me
 
-I'm crafty with Adobe Creative Suite, using tools like Photoshop, Premiere, After Effects, and Illustrator to bring ideas to life. When I'm not coding, you'll find me geeking out over mecha, especially Gundam and Armored Core.
+I'm crafty with Adobe Creative Suite, using tools like Photoshop, Premiere, After Effects, and Illustrator to bring ideas to life. When I'm not coding, you'll find me obsessing over mecha, especially Gundam and Armored Core.
