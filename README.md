@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a passion for coding and problem-solving, always eager to take on new challenges.
 
-### Skills
+### Skills / Technology Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
