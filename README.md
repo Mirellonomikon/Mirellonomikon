@@ -1,7 +1,6 @@
 ## Welcome to My GitHub! 👋
 
-I'm a Computer Science student with a passion for coding and problem-solving, always eager to take on new challenges.
-
+Entry-level developer with a knack for problem solving and an eye for details. AI enthusiast.
 ### Skills / Technology Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -18,7 +17,7 @@ I'm a Computer Science student with a passion for coding and problem-solving, al
 ### What I'm up to
 
 - 🌱 Learning bits of everything so that I can keep up to date with the newest programming trends
-- 🤖 Exploring AI and experimenting with LLMs
+- 🤖 Exploring AI and experimenting with various audio, image and text models.
 
 ### Let's Connect
 
