@@ -25,4 +25,4 @@ Entry-level developer with a knack for problem solving and an eye for details. A
 
 ### About Me
 
-I'm crafty with Adobe Creative Suite, using tools like Photoshop, Premiere, After Effects, and Illustrator to bring ideas to life. I like experimenting with AI tools such as ComfyUI, SillyTavern and RVC v2. You'll also find me obsessing over mecha, especially Gundam and Armored Core.
+I'm crafty with Adobe Creative Suite, using tools like Clip Studio Paint, Photoshop, Premiere, After Effects, and Illustrator. I like experimenting with AI tools such as ComfyUI, SillyTavern and RVC v2. You'll also find me obsessing over mecha, especially Gundam and Armored Core.
