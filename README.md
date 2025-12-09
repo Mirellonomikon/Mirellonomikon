@@ -1,6 +1,6 @@
 ## Welcome to My GitHub! 👋
 
-Entry-level developer with a knack for problem solving and an eye for details. AI enthusiast.
+Entry-level developer with a knack for problem-solving and an eye for detail.
 ### Skills / Technology Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
