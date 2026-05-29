@@ -14,15 +14,6 @@ Entry-level developer with a knack for problem-solving and an eye for detail.
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### What I'm up to
-
-- 🌱 Learning bits of everything so that I can keep up to date with the newest programming trends
-- 🤖 Exploring AI and experimenting with various audio, image and text models.
-
-### Let's Connect
-
-- 💬 Discord: morelah
-
 ### About Me
 
 I'm crafty with Adobe Creative Suite, using tools like Clip Studio Paint, Photoshop, Premiere, After Effects, and Illustrator. I like experimenting with AI tools such as ComfyUI, SillyTavern and RVC v2. Mecha fan, especially Gundam and Armored Core.
